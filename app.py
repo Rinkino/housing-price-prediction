@@ -10,7 +10,6 @@ warnings.filterwarnings('ignore')
 # Set page configuration
 st.set_page_config(
     page_title="Housing Price Predictor",
-    page_icon="🏠",
     layout="wide",
     initial_sidebar_state="expanded"
 )
